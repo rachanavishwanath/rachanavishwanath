@@ -10,11 +10,15 @@ My additional skills include JavaScript, Ruby, HTML, CSS, webpack, github, Node.
 
 I have 5 years of Quality Assurance, with strong analytical skills, experience in automation, functional, regression, UAT Testing, web services. I am ISTQB certified, decisive, efficient and contributive team member, have outstanding communication skills. 
 
-Contact Details:
+How to reach me:
 
 [LinkedIn](https://www.linkedin.com/in/rachana-vishwanath-450ba159/) 
+
 [Angel List](https://angel.co/u/rachana-vishwanath)
-[Gmail](rachana.gujrathi@gmail.com)
+
+Email: rachana.gujrathi@gmail.com
+
+Please feel free to look at my projects and check out the applications, they are included in the readMe's!
 <!--
 **rachanavishwanath/rachanavishwanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
