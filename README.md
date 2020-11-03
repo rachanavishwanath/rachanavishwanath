@@ -18,7 +18,7 @@ How to reach me:
 
 Email: rachana.gujrathi@gmail.com
 
-Please feel free to look at my projects and check out the applications, they are included in the readMe's!
+Please feel free to look at my projects and check out the web applications, live links are included in the readMe's!
 <!--
 **rachanavishwanath/rachanavishwanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
